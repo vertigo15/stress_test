@@ -1,0 +1,10 @@
+
+{
+    "base_url": "https://app-dev.jeen.ai",
+    "email": "Electra2@onebi.co.il",
+    "password": "e123123",
+    "num_sessions": 1,
+    "response_timeout": 30,
+    "file_path": "/path/to/your/file.pdf",
+    "headless": false
+}

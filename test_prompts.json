@@ -1,0 +1,14 @@
+{
+    "prompts": [
+        "What is the main theme of the uploaded document?",
+        "Summarize the key points in the document.",
+        "What evidence supports the main argument?",
+        "How does this document compare to similar works?",
+        "What are the potential counterarguments to the main thesis?",
+        "Identify the methodology used in the research.",
+        "What are the limitations of this study?",
+        "How might these findings be applied in practice?",
+        "What further research questions does this work suggest?",
+        "Evaluate the strength of the conclusions drawn."
+    ]
+}

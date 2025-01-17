@@ -1,0 +1,306 @@
+2025-01-17 16:31:09,993 - Session-1 - INFO - ====== WebDriver manager ======
+2025-01-17 16:31:11,820 - Session-2 - INFO - ====== WebDriver manager ======
+2025-01-17 16:31:12,083 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:31:12,285 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:31:12,529 - Session-1 - INFO - There is no [win64] chromedriver "131.0.6778.264" for browser google-chrome "131.0.6778" in cache
+2025-01-17 16:31:12,532 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:31:12,821 - Session-3 - INFO - ====== WebDriver manager ======
+2025-01-17 16:31:12,938 - Session-1 - INFO - WebDriver version 131.0.6778.264 selected
+2025-01-17 16:31:12,943 - Session-1 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.264/win32/chromedriver-win32.zip
+2025-01-17 16:31:12,945 - Session-1 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.264/win32/chromedriver-win32.zip
+2025-01-17 16:31:13,043 - Session-1 - INFO - Driver downloading response is 200
+2025-01-17 16:31:13,348 - Session-2 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:31:13,398 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:31:13,505 - Session-2 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:31:13,737 - Session-2 - INFO - There is no [win64] chromedriver "131.0.6778.264" for browser google-chrome "131.0.6778" in cache
+2025-01-17 16:31:13,739 - Session-2 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:31:13,830 - Session-4 - INFO - ====== WebDriver manager ======
+2025-01-17 16:31:14,209 - Session-3 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:31:14,239 - Session-2 - INFO - WebDriver version 131.0.6778.264 selected
+2025-01-17 16:31:14,241 - Session-2 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.264/win32/chromedriver-win32.zip
+2025-01-17 16:31:14,244 - Session-2 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.264/win32/chromedriver-win32.zip
+2025-01-17 16:31:14,322 - Session-2 - INFO - Driver downloading response is 200
+2025-01-17 16:31:14,462 - Session-3 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:31:14,531 - Session-1 - INFO - Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win64\131.0.6778.264]
+2025-01-17 16:31:14,638 - Session-3 - INFO - There is no [win64] chromedriver "131.0.6778.264" for browser google-chrome "131.0.6778" in cache
+2025-01-17 16:31:14,642 - Session-3 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:31:14,670 - Session-2 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:31:15,119 - Session-2 - INFO - Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win64\131.0.6778.264]
+2025-01-17 16:31:15,228 - Session-3 - INFO - WebDriver version 131.0.6778.264 selected
+2025-01-17 16:31:15,231 - Session-3 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.264/win32/chromedriver-win32.zip
+2025-01-17 16:31:15,232 - Session-3 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.264/win32/chromedriver-win32.zip
+2025-01-17 16:31:15,341 - Session-4 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:31:15,351 - Session-3 - INFO - Driver downloading response is 200
+2025-01-17 16:31:15,622 - Session-4 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:31:15,839 - Session-4 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\131.0.6778.264\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-17 16:31:15,859 - Session-3 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:31:16,201 - Session-3 - INFO - Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win64\131.0.6778.264]
+2025-01-17 16:31:33,317 - Session-5 - INFO - ====== WebDriver manager ======
+2025-01-17 16:31:35,120 - Session-5 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:31:35,285 - Session-5 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:31:35,538 - Session-5 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\131.0.6778.264\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-17 16:31:59,075 - Session-6 - INFO - ====== WebDriver manager ======
+2025-01-17 16:32:00,334 - Session-6 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:32:00,502 - Session-6 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:32:00,736 - Session-6 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\131.0.6778.264\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-17 16:32:06,268 - Session-7 - INFO - ====== WebDriver manager ======
+2025-01-17 16:32:07,747 - Session-7 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:32:07,913 - Session-7 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:32:08,159 - Session-7 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\131.0.6778.264\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-17 16:32:27,063 - Session-1 - ERROR - Login failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0107FD53+23747]
+	(No symbol) [0x01007D54]
+	(No symbol) [0x00EDBE53]
+	(No symbol) [0x00F1FCA6]
+	(No symbol) [0x00F1FEEB]
+	(No symbol) [0x00F5D852]
+	(No symbol) [0x00F41E44]
+	(No symbol) [0x00F5B41E]
+	(No symbol) [0x00F41B96]
+	(No symbol) [0x00F13F3C]
+	(No symbol) [0x00F14EBD]
+	GetHandleVerifier [0x0135AC73+3017699]
+	GetHandleVerifier [0x0136B93B+3086507]
+	GetHandleVerifier [0x013640F2+3055714]
+	GetHandleVerifier [0x01115AF0+637536]
+	(No symbol) [0x01010A5D]
+	(No symbol) [0x0100DA28]
+	(No symbol) [0x0100DBC5]
+	(No symbol) [0x010007F0]
+	BaseThreadInitThunk [0x76675D49+25]
+	RtlInitializeExceptionChain [0x77B5CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x77B5CE41+561]
+
+2025-01-17 16:32:27,064 - Session-1 - ERROR - Session 1 failed: Login failed
+2025-01-17 16:32:45,859 - Session-2 - ERROR - Login failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0107FD53+23747]
+	(No symbol) [0x01007D54]
+	(No symbol) [0x00EDBE53]
+	(No symbol) [0x00F1FCA6]
+	(No symbol) [0x00F1FEEB]
+	(No symbol) [0x00F5D852]
+	(No symbol) [0x00F41E44]
+	(No symbol) [0x00F5B41E]
+	(No symbol) [0x00F41B96]
+	(No symbol) [0x00F13F3C]
+	(No symbol) [0x00F14EBD]
+	GetHandleVerifier [0x0135AC73+3017699]
+	GetHandleVerifier [0x0136B93B+3086507]
+	GetHandleVerifier [0x013640F2+3055714]
+	GetHandleVerifier [0x01115AF0+637536]
+	(No symbol) [0x01010A5D]
+	(No symbol) [0x0100DA28]
+	(No symbol) [0x0100DBC5]
+	(No symbol) [0x010007F0]
+	BaseThreadInitThunk [0x76675D49+25]
+	RtlInitializeExceptionChain [0x77B5CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x77B5CE41+561]
+
+2025-01-17 16:32:45,862 - Session-2 - ERROR - Session 2 failed: Login failed
+2025-01-17 16:32:56,161 - Session-4 - ERROR - Login failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0107FD53+23747]
+	(No symbol) [0x01007D54]
+	(No symbol) [0x00EDBE53]
+	(No symbol) [0x00F1FCA6]
+	(No symbol) [0x00F1FEEB]
+	(No symbol) [0x00F5D852]
+	(No symbol) [0x00F41E44]
+	(No symbol) [0x00F5B41E]
+	(No symbol) [0x00F41B96]
+	(No symbol) [0x00F13F3C]
+	(No symbol) [0x00F14EBD]
+	GetHandleVerifier [0x0135AC73+3017699]
+	GetHandleVerifier [0x0136B93B+3086507]
+	GetHandleVerifier [0x013640F2+3055714]
+	GetHandleVerifier [0x01115AF0+637536]
+	(No symbol) [0x01010A5D]
+	(No symbol) [0x0100DA28]
+	(No symbol) [0x0100DBC5]
+	(No symbol) [0x010007F0]
+	BaseThreadInitThunk [0x76675D49+25]
+	RtlInitializeExceptionChain [0x77B5CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x77B5CE41+561]
+
+2025-01-17 16:32:56,162 - Session-4 - ERROR - Session 4 failed: Login failed
+2025-01-17 16:32:56,239 - Session-6 - ERROR - Login failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0107FD53+23747]
+	(No symbol) [0x01007D54]
+	(No symbol) [0x00EDBE53]
+	(No symbol) [0x00F1FCA6]
+	(No symbol) [0x00F1FEEB]
+	(No symbol) [0x00F5D852]
+	(No symbol) [0x00F41E44]
+	(No symbol) [0x00F5B41E]
+	(No symbol) [0x00F41B96]
+	(No symbol) [0x00F13F3C]
+	(No symbol) [0x00F14EBD]
+	GetHandleVerifier [0x0135AC73+3017699]
+	GetHandleVerifier [0x0136B93B+3086507]
+	GetHandleVerifier [0x013640F2+3055714]
+	GetHandleVerifier [0x01115AF0+637536]
+	(No symbol) [0x01010A5D]
+	(No symbol) [0x0100DA28]
+	(No symbol) [0x0100DBC5]
+	(No symbol) [0x010007F0]
+	BaseThreadInitThunk [0x76675D49+25]
+	RtlInitializeExceptionChain [0x77B5CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x77B5CE41+561]
+
+2025-01-17 16:32:56,240 - Session-6 - ERROR - Session 6 failed: Login failed
+2025-01-17 16:32:56,281 - Session-5 - ERROR - Login failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0107FD53+23747]
+	(No symbol) [0x01007D54]
+	(No symbol) [0x00EDBE53]
+	(No symbol) [0x00F1FCA6]
+	(No symbol) [0x00F1FEEB]
+	(No symbol) [0x00F5D852]
+	(No symbol) [0x00F41E44]
+	(No symbol) [0x00F5B41E]
+	(No symbol) [0x00F41B96]
+	(No symbol) [0x00F13F3C]
+	(No symbol) [0x00F14EBD]
+	GetHandleVerifier [0x0135AC73+3017699]
+	GetHandleVerifier [0x0136B93B+3086507]
+	GetHandleVerifier [0x013640F2+3055714]
+	GetHandleVerifier [0x01115AF0+637536]
+	(No symbol) [0x01010A5D]
+	(No symbol) [0x0100DA28]
+	(No symbol) [0x0100DBC5]
+	(No symbol) [0x010007F0]
+	BaseThreadInitThunk [0x76675D49+25]
+	RtlInitializeExceptionChain [0x77B5CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x77B5CE41+561]
+
+2025-01-17 16:32:56,283 - Session-5 - ERROR - Session 5 failed: Login failed
+2025-01-17 16:32:56,320 - Session-3 - ERROR - Login failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0107FD53+23747]
+	(No symbol) [0x01007D54]
+	(No symbol) [0x00EDBE53]
+	(No symbol) [0x00F1FCA6]
+	(No symbol) [0x00F1FEEB]
+	(No symbol) [0x00F5D852]
+	(No symbol) [0x00F41E44]
+	(No symbol) [0x00F5B41E]
+	(No symbol) [0x00F41B96]
+	(No symbol) [0x00F13F3C]
+	(No symbol) [0x00F14EBD]
+	GetHandleVerifier [0x0135AC73+3017699]
+	GetHandleVerifier [0x0136B93B+3086507]
+	GetHandleVerifier [0x013640F2+3055714]
+	GetHandleVerifier [0x01115AF0+637536]
+	(No symbol) [0x01010A5D]
+	(No symbol) [0x0100DA28]
+	(No symbol) [0x0100DBC5]
+	(No symbol) [0x010007F0]
+	BaseThreadInitThunk [0x76675D49+25]
+	RtlInitializeExceptionChain [0x77B5CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x77B5CE41+561]
+
+2025-01-17 16:32:56,320 - Session-3 - ERROR - Session 3 failed: Login failed
+2025-01-17 16:33:08,214 - Session-7 - ERROR - Login failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0107FD53+23747]
+	(No symbol) [0x01007D54]
+	(No symbol) [0x00EDBE53]
+	(No symbol) [0x00F1FCA6]
+	(No symbol) [0x00F1FEEB]
+	(No symbol) [0x00F5D852]
+	(No symbol) [0x00F41E44]
+	(No symbol) [0x00F5B41E]
+	(No symbol) [0x00F41B96]
+	(No symbol) [0x00F13F3C]
+	(No symbol) [0x00F14EBD]
+	GetHandleVerifier [0x0135AC73+3017699]
+	GetHandleVerifier [0x0136B93B+3086507]
+	GetHandleVerifier [0x013640F2+3055714]
+	GetHandleVerifier [0x01115AF0+637536]
+	(No symbol) [0x01010A5D]
+	(No symbol) [0x0100DA28]
+	(No symbol) [0x0100DBC5]
+	(No symbol) [0x010007F0]
+	BaseThreadInitThunk [0x76675D49+25]
+	RtlInitializeExceptionChain [0x77B5CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x77B5CE41+561]
+
+2025-01-17 16:33:08,215 - Session-7 - ERROR - Session 7 failed: Login failed
+2025-01-17 16:33:10,385 - MainThread - INFO - Results saved to results_20250117_163310.json
+2025-01-17 16:33:10,386 - MainThread - INFO - Results saved to results_20250117_163310.json
+2025-01-17 16:39:16,589 - Session-1 - INFO - ====== WebDriver manager ======
+2025-01-17 16:39:17,610 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:39:17,778 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:39:18,000 - Session-1 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\131.0.6778.264\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-17 16:40:35,958 - Session-1 - INFO - ====== WebDriver manager ======
+2025-01-17 16:40:36,983 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:40:37,166 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:40:37,405 - Session-1 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\131.0.6778.264\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-17 16:41:29,483 - Session-1 - INFO - ====== WebDriver manager ======
+2025-01-17 16:41:30,483 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:41:30,632 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:41:30,782 - Session-1 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\131.0.6778.264\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-17 16:42:12,509 - Session-1 - ERROR - Login failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0107FD53+23747]
+	(No symbol) [0x01007D54]
+	(No symbol) [0x00EDBE53]
+	(No symbol) [0x00F1FCA6]
+	(No symbol) [0x00F1FEEB]
+	(No symbol) [0x00F5D852]
+	(No symbol) [0x00F41E44]
+	(No symbol) [0x00F5B41E]
+	(No symbol) [0x00F41B96]
+	(No symbol) [0x00F13F3C]
+	(No symbol) [0x00F14EBD]
+	GetHandleVerifier [0x0135AC73+3017699]
+	GetHandleVerifier [0x0136B93B+3086507]
+	GetHandleVerifier [0x013640F2+3055714]
+	GetHandleVerifier [0x01115AF0+637536]
+	(No symbol) [0x01010A5D]
+	(No symbol) [0x0100DA28]
+	(No symbol) [0x0100DBC5]
+	(No symbol) [0x010007F0]
+	BaseThreadInitThunk [0x76675D49+25]
+	RtlInitializeExceptionChain [0x77B5CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x77B5CE41+561]
+
+2025-01-17 16:42:12,509 - Session-1 - ERROR - Session 1 failed: Login failed
+2025-01-17 16:42:14,655 - MainThread - INFO - Results saved to results_20250117_164214.json
+2025-01-17 16:42:14,659 - MainThread - INFO - Results saved to results_20250117_164214.json
+2025-01-17 16:42:19,663 - Session-1 - ERROR - Login failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0107FD53+23747]
+	(No symbol) [0x01007D54]
+	(No symbol) [0x00EDBE53]
+	(No symbol) [0x00F1FCA6]
+	(No symbol) [0x00F1FEEB]
+	(No symbol) [0x00F5D852]
+	(No symbol) [0x00F41E44]
+	(No symbol) [0x00F5B41E]
+	(No symbol) [0x00F41B96]
+	(No symbol) [0x00F13F3C]
+	(No symbol) [0x00F14EBD]
+	GetHandleVerifier [0x0135AC73+3017699]
+	GetHandleVerifier [0x0136B93B+3086507]
+	GetHandleVerifier [0x013640F2+3055714]
+	GetHandleVerifier [0x01115AF0+637536]
+	(No symbol) [0x01010A5D]
+	(No symbol) [0x0100DA28]
+	(No symbol) [0x0100DBC5]
+	(No symbol) [0x010007F0]
+	BaseThreadInitThunk [0x76675D49+25]
+	RtlInitializeExceptionChain [0x77B5CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x77B5CE41+561]
+
+2025-01-17 16:54:48,111 - Session-1 - INFO - ====== WebDriver manager ======
+2025-01-17 16:54:49,111 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:54:49,287 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 16:54:49,522 - Session-1 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\131.0.6778.264\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-17 17:05:24,756 - Session-1 - INFO - ====== WebDriver manager ======
+2025-01-17 17:05:25,757 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 17:05:26,007 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-17 17:05:26,237 - Session-1 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\131.0.6778.264\chromedriver-win32/chromedriver.exe] found in cache

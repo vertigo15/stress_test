@@ -211,16 +211,20 @@ class ChatLoadTester:
         start_time = time.time()
         try:
             # Wait for and locate input box
+            
+            #self.driver.find_element(By.CSS_SELECTOR, ".question-input").send_keys("סכם את תוכן המסמך\\n")
+            """
             input_box = WebDriverWait(driver, 10).until(
                 EC.presence_of_element_located((By.CLASS_NAME, "question-input"))
             )
             
             # Check for errors before sending
             result['errors'].extend(self.check_for_errors(driver))
-            
+            """
             # Send the prompt
-            input_box.clear()
-            input_box.send_keys(prompt)
+            self.driver.find_element(By.CSS_SELECTOR, ".question-input").clear()
+            self.driver.find_element(By.CSS_SELECTOR, ".question-input").send_keys(prompt)
+            
             
             send_button = driver.find_element(By.CLASS_NAME, "submit-btn")
             send_button.click()
@@ -265,7 +269,7 @@ class ChatLoadTester:
             return True
             
         try:
-            # Wait for and locate file input  למחוק
+            # Wait for and locate file input  
             file_input = WebDriverWait(driver, 10).until(
                 EC.presence_of_element_located((By.CSS_SELECTOR, "input[type='file']"))
             )
@@ -303,8 +307,8 @@ class ChatLoadTester:
             if not self.login(driver):
                 raise Exception("Login failed")
                 
-            if not self.upload_file(driver):
-                raise Exception("File upload failed")
+            ##if not self.upload_file(driver):
+             ##   raise Exception("File upload failed")
             
             # Get prompt for this session
             prompt = self.test_prompts[session_id % len(self.test_prompts)]

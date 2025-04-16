@@ -330,3 +330,217 @@ Stacktrace:
 2025-01-17 23:03:47,442 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
 2025-01-17 23:03:47,652 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
 2025-01-17 23:03:47,847 - Session-1 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\131.0.6778.264\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-14 15:05:50,989 - Session-1 - INFO - ====== WebDriver manager ======
+2025-04-14 15:05:59,353 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 15:05:59,657 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 15:05:59,796 - Session-1 - INFO - There is no [win64] chromedriver "135.0.7049.84" for browser google-chrome "135.0.7049" in cache
+2025-04-14 15:05:59,797 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 15:06:00,188 - Session-1 - INFO - WebDriver version 135.0.7049.84 selected
+2025-04-14 15:06:00,192 - Session-1 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.84/win32/chromedriver-win32.zip
+2025-04-14 15:06:00,193 - Session-1 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.84/win32/chromedriver-win32.zip
+2025-04-14 15:06:00,300 - Session-1 - INFO - Driver downloading response is 200
+2025-04-14 15:06:05,636 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 15:06:07,160 - Session-1 - INFO - Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win64\135.0.7049.84]
+2025-04-14 15:08:30,875 - Session-1 - ERROR - Login failed: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00C980E3+60707]
+	GetHandleVerifier [0x00C98124+60772]
+	(No symbol) [0x00AC0683]
+	(No symbol) [0x00AAFED0]
+	(No symbol) [0x00ACDD3F]
+	(No symbol) [0x00B33D7F]
+	(No symbol) [0x00B4E129]
+	(No symbol) [0x00B2CE46]
+	(No symbol) [0x00AFC5D3]
+	(No symbol) [0x00AFD424]
+	GetHandleVerifier [0x00EDBBC3+2435075]
+	GetHandleVerifier [0x00ED7163+2416035]
+	GetHandleVerifier [0x00EF350C+2531660]
+	GetHandleVerifier [0x00CAF1B5+155125]
+	GetHandleVerifier [0x00CB5B5D+182173]
+	GetHandleVerifier [0x00C9F9B8+91640]
+	GetHandleVerifier [0x00C9FB60+92064]
+	GetHandleVerifier [0x00C8A620+4704]
+	BaseThreadInitThunk [0x76385D49+25]
+	RtlInitializeExceptionChain [0x775FCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x775FCE91+561]
+
+2025-04-14 15:08:37,133 - Session-1 - ERROR - Session 1 failed: Login failed
+2025-04-14 15:08:39,192 - MainThread - INFO - Results saved to results_20250414_150839.json
+2025-04-14 15:08:39,193 - MainThread - INFO - Results saved to results_20250414_150839.json
+2025-04-14 15:08:54,532 - Session-1 - INFO - ====== WebDriver manager ======
+2025-04-14 15:08:56,867 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 15:08:57,037 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 15:08:57,182 - Session-1 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-14 15:09:21,070 - Session-1 - ERROR - Login failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C980E3+60707]
+	GetHandleVerifier [0x00C98124+60772]
+	(No symbol) [0x00AC0683]
+	(No symbol) [0x00B08660]
+	(No symbol) [0x00B089FB]
+	(No symbol) [0x00B51022]
+	(No symbol) [0x00B2D094]
+	(No symbol) [0x00B4E824]
+	(No symbol) [0x00B2CE46]
+	(No symbol) [0x00AFC5D3]
+	(No symbol) [0x00AFD424]
+	GetHandleVerifier [0x00EDBBC3+2435075]
+	GetHandleVerifier [0x00ED7163+2416035]
+	GetHandleVerifier [0x00EF350C+2531660]
+	GetHandleVerifier [0x00CAF1B5+155125]
+	GetHandleVerifier [0x00CB5B5D+182173]
+	GetHandleVerifier [0x00C9F9B8+91640]
+	GetHandleVerifier [0x00C9FB60+92064]
+	GetHandleVerifier [0x00C8A620+4704]
+	BaseThreadInitThunk [0x76385D49+25]
+	RtlInitializeExceptionChain [0x775FCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x775FCE91+561]
+
+2025-04-14 15:09:21,071 - Session-1 - ERROR - Session 1 failed: Login failed
+2025-04-14 15:09:23,302 - MainThread - INFO - Results saved to results_20250414_150923.json
+2025-04-14 15:09:23,306 - MainThread - INFO - Results saved to results_20250414_150923.json
+2025-04-14 15:33:24,455 - Session-1 - INFO - ====== WebDriver manager ======
+2025-04-14 15:33:26,167 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 15:33:26,309 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-14 15:33:26,489 - Session-1 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-14 15:33:41,782 - Session-1 - ERROR - Login failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C980E3+60707]
+	GetHandleVerifier [0x00C98124+60772]
+	(No symbol) [0x00AC0683]
+	(No symbol) [0x00B08660]
+	(No symbol) [0x00B089FB]
+	(No symbol) [0x00B51022]
+	(No symbol) [0x00B2D094]
+	(No symbol) [0x00B4E824]
+	(No symbol) [0x00B2CE46]
+	(No symbol) [0x00AFC5D3]
+	(No symbol) [0x00AFD424]
+	GetHandleVerifier [0x00EDBBC3+2435075]
+	GetHandleVerifier [0x00ED7163+2416035]
+	GetHandleVerifier [0x00EF350C+2531660]
+	GetHandleVerifier [0x00CAF1B5+155125]
+	GetHandleVerifier [0x00CB5B5D+182173]
+	GetHandleVerifier [0x00C9F9B8+91640]
+	GetHandleVerifier [0x00C9FB60+92064]
+	GetHandleVerifier [0x00C8A620+4704]
+	BaseThreadInitThunk [0x76385D49+25]
+	RtlInitializeExceptionChain [0x775FCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x775FCE91+561]
+
+2025-04-14 15:33:41,784 - Session-1 - ERROR - Session 1 failed: Login failed
+2025-04-14 15:33:44,026 - MainThread - INFO - Results saved to results_20250414_153344.json
+2025-04-14 15:33:44,027 - MainThread - INFO - Results saved to results_20250414_153344.json
+2025-04-15 08:05:54,813 - Session-1 - INFO - ====== WebDriver manager ======
+2025-04-15 08:05:56,809 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-15 08:05:57,056 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-15 08:05:57,222 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-15 08:05:57,613 - Session-1 - INFO - WebDriver version 135.0.7049.84 selected
+2025-04-15 08:05:57,617 - Session-1 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.84/win32/chromedriver-win32.zip
+2025-04-15 08:05:57,617 - Session-1 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.84/win32/chromedriver-win32.zip
+2025-04-15 08:05:57,711 - Session-1 - INFO - Driver downloading response is 200
+2025-04-15 08:06:03,079 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-15 08:06:13,691 - Session-1 - INFO - Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win64\135.0.7049.84]
+2025-04-15 08:06:55,247 - Session-1 - ERROR - Login failed: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00C280E3+60707]
+	GetHandleVerifier [0x00C28124+60772]
+	(No symbol) [0x00A50683]
+	(No symbol) [0x00A3FED0]
+	(No symbol) [0x00A5DD3F]
+	(No symbol) [0x00AC3D7F]
+	(No symbol) [0x00ADE129]
+	(No symbol) [0x00ABCE46]
+	(No symbol) [0x00A8C5D3]
+	(No symbol) [0x00A8D424]
+	GetHandleVerifier [0x00E6BBC3+2435075]
+	GetHandleVerifier [0x00E67163+2416035]
+	GetHandleVerifier [0x00E8350C+2531660]
+	GetHandleVerifier [0x00C3F1B5+155125]
+	GetHandleVerifier [0x00C45B5D+182173]
+	GetHandleVerifier [0x00C2F9B8+91640]
+	GetHandleVerifier [0x00C2FB60+92064]
+	GetHandleVerifier [0x00C1A620+4704]
+	BaseThreadInitThunk [0x76CC5D49+25]
+	RtlInitializeExceptionChain [0x76FACF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x76FACE91+561]
+
+2025-04-15 08:06:55,250 - Session-1 - ERROR - Session 1 failed: Login failed
+2025-04-15 08:06:57,438 - MainThread - INFO - Results saved to results_20250415_080657.json
+2025-04-15 08:06:57,439 - MainThread - INFO - Results saved to results_20250415_080657.json
+2025-04-15 14:27:38,856 - Session-1 - INFO - ====== WebDriver manager ======
+2025-04-15 14:27:41,190 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-15 14:27:41,360 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-15 14:27:41,542 - Session-1 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-15 14:28:03,008 - Session-1 - ERROR - Login failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C280E3+60707]
+	GetHandleVerifier [0x00C28124+60772]
+	(No symbol) [0x00A50683]
+	(No symbol) [0x00A98660]
+	(No symbol) [0x00A989FB]
+	(No symbol) [0x00AE1022]
+	(No symbol) [0x00ABD094]
+	(No symbol) [0x00ADE824]
+	(No symbol) [0x00ABCE46]
+	(No symbol) [0x00A8C5D3]
+	(No symbol) [0x00A8D424]
+	GetHandleVerifier [0x00E6BBC3+2435075]
+	GetHandleVerifier [0x00E67163+2416035]
+	GetHandleVerifier [0x00E8350C+2531660]
+	GetHandleVerifier [0x00C3F1B5+155125]
+	GetHandleVerifier [0x00C45B5D+182173]
+	GetHandleVerifier [0x00C2F9B8+91640]
+	GetHandleVerifier [0x00C2FB60+92064]
+	GetHandleVerifier [0x00C1A620+4704]
+	BaseThreadInitThunk [0x76CC5D49+25]
+	RtlInitializeExceptionChain [0x76FACF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x76FACE91+561]
+
+2025-04-15 14:28:03,009 - Session-1 - ERROR - Session 1 failed: Login failed
+2025-04-15 14:28:05,287 - MainThread - INFO - Results saved to results_20250415_142805.json
+2025-04-15 14:28:05,290 - MainThread - INFO - Results saved to results_20250415_142805.json
+2025-04-16 09:53:34,862 - Session-1 - INFO - ====== WebDriver manager ======
+2025-04-16 09:53:37,072 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-16 09:53:37,348 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-16 09:53:37,578 - Session-1 - INFO - There is no [win64] chromedriver "135.0.7049.95" for browser google-chrome "135.0.7049" in cache
+2025-04-16 09:53:37,579 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-16 09:53:38,064 - Session-1 - INFO - WebDriver version 135.0.7049.95 selected
+2025-04-16 09:53:38,066 - Session-1 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.95/win32/chromedriver-win32.zip
+2025-04-16 09:53:38,067 - Session-1 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.95/win32/chromedriver-win32.zip
+2025-04-16 09:53:38,148 - Session-1 - INFO - Driver downloading response is 200
+2025-04-16 09:53:43,684 - Session-1 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-16 09:53:44,903 - Session-1 - INFO - Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win64\135.0.7049.95]
+2025-04-16 09:54:33,828 - Session-1 - ERROR - Login failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00E98073+60707]
+	GetHandleVerifier [0x00E980B4+60772]
+	(No symbol) [0x00CC0683]
+	(No symbol) [0x00D08660]
+	(No symbol) [0x00D089FB]
+	(No symbol) [0x00D51022]
+	(No symbol) [0x00D2D094]
+	(No symbol) [0x00D4E824]
+	(No symbol) [0x00D2CE46]
+	(No symbol) [0x00CFC5D3]
+	(No symbol) [0x00CFD424]
+	GetHandleVerifier [0x010DBB53+2435075]
+	GetHandleVerifier [0x010D70F3+2416035]
+	GetHandleVerifier [0x010F349C+2531660]
+	GetHandleVerifier [0x00EAF145+155125]
+	GetHandleVerifier [0x00EB5AED+182173]
+	GetHandleVerifier [0x00E9F948+91640]
+	GetHandleVerifier [0x00E9FAF0+92064]
+	GetHandleVerifier [0x00E8A5B0+4704]
+	BaseThreadInitThunk [0x76DD5D49+25]
+	RtlInitializeExceptionChain [0x77DBCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77DBCE91+561]
+
+2025-04-16 09:54:33,831 - Session-1 - ERROR - Session 1 failed: Login failed
+2025-04-16 09:54:36,112 - MainThread - INFO - Results saved to results_20250416_095436.json
+2025-04-16 09:54:36,113 - MainThread - INFO - Results saved to results_20250416_095436.json
